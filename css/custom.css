@@ -198,6 +198,11 @@ ul {
     font-size: 22px;
 }
 
+.footer p {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
 .footer {
     margin-top: 40px;
     border-top: 1px solid #aaa;
@@ -209,9 +214,4 @@ ul {
     display: block;
     margin-bottom: 10px;
     text-decoration: none;
-}
-
-.footer p {
-    font-size: 1.6rem;
-    text-align: center;
 }
